@@ -9,4 +9,4 @@ Inlcudes:
   CML 2.9.0 freeRADIUS container `radiusd.conf` file. Adapt the secret unless
   you want to go with "geheim" (*secret* in German).
 
-Video [on YouTube](https://youtu.be/)
+Video on YouTube <https://youtu.be/lVCiYBSH1kA>
